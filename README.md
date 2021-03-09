@@ -4,3 +4,5 @@ This code has been created from the Udemy course Node with React: Fullstack Web 
 
 * Full course: https://www.udemy.com/course/node-with-react-fullstack-web-development/
 * Information about the instructor: https://www.udemy.com/user/sgslo/
+
+The app is publicly available at https://sheltered-springs-01515.herokuapp.com/
