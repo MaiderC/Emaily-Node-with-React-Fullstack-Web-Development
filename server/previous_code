@@ -1,0 +1,19 @@
+
+// Using only MongoDB
+// const MongoClient = require('mongodb').MongoClient;
+// const client = new MongoClient(keys.mongoURI, { useNewUrlParser: true });
+// client.connect(err => {
+// //   const collection = client.db("test").collection("devices");
+//   // perform actions on the collection object
+//   client.close();
+// });
+
+
+/*
+app = express server to comunicate with handlers
+get = incoming request's method
+'/' = Route at which the handler will be listening
+*/
+// app.get('/', (req, res) => {
+//     res.send({hi: 'there'}); // Respond with plain JSON data
+// });
